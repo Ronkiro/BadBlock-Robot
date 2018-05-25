@@ -1,0 +1,1 @@
+Robot made for robocode use, feel free to use.
